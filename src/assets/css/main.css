@@ -1,0 +1,62 @@
+@charset "utf-8";
+body{padding:0; margin:0 auto; font-family:"微软雅黑"; font-size:14px; color:#333;background-color:#fff; width:100%;}
+ul,li{list-style:none; padding:0;}
+img,span,input,a,h1,h2,h3,h4,h5{padding:0; margin:0; font-weight:normal;}
+a{text-decoration:none;}
+a:hover{ cursor:pointer;}
+li:hover{cursor:pointer;}
+input{outline:none;}
+
+.topbar{width:100%; height:36px; background-color:#f1f1f1;}
+.bar-box{width:1200px; margin:auto; line-height:36px; font-size:12px; color:#666666;}
+.bar-box span{float:left;}
+.bar-box div{float:right; }
+.bar-box div a{display:inline-block; padding-left:40px;}
+
+.navbar{width:100%; height:80px; background-color:#fff;}
+.nav{width:1200px; margin:auto; line-height:80px; font-size:18px;}
+.nav-left{float:left;}
+.nav-left img{display:block; margin-top:26px;}
+.nav-right{float:right;}
+.nav-right a{display:block; float:left; padding-left:60px; }
+.nav-right a:first-child{color:#ff730c;}
+.banner{width:100%; height:500px;}
+
+.intro{background:#fff;  padding-top:50px; }
+.introduction{width:1200px; margin:auto;}
+.introduction li{width:300px; display:inline-block;float:left; text-align:center;}
+.introduction li h2{padding-top:20px; font-size:24px;}
+.introduction li p{text-align:center; color:#666666; padding-bottom:40px;}
+
+.table-box{width:100%; background-color:#f5f5f5; clear:both;}
+.checktable{width:1200px; margin:auto; padding-bottom:60px;}
+.checktable table{width:900px; margin-left:150px; border:1px solid #ddd; }
+.checktable table th{height:40px; line-height:40px; width:300px; text-align:center; background:#f6fafd;}
+.checktable table td{background-color:#fff; line-height:40px; text-align:center;}
+.checktable div{padding:40px 0; margin-left:300px; }
+.checktable img{ position:relative; top:16px; margin-right:20px;}
+.jisuan-btn{width:120px; height:40px; background:#ff730c; border:none; color:#fff;}
+
+.fourth-box{width:1200px; margin:auto; padding:30px 0;}
+.fourth-box h2{line-height:60px; font-size:20px; color:#333; font-weight:bold; margin-bottom:20px;}
+.ques{background:#f5f5f5; height:520px; width:100%;}
+.question-left{float:left; width:6%}
+.question-right{float:left; width:90%}
+.question-right h2{line-height:20px; font-size:18px; color:#333; font-weight:400;}
+.question-right p{line-height:20px; font-size:14px; color:#808080; margin-bottom:40px;}
+
+.bottombar{width:100%; height:60px; background:#e5e5e5;}
+.bottombar div{width:1200px; margin:auto;  text-align:center; line-height:60px; font-size:12px;}
+
+
+
+
+
+
+
+
+
+
+
+
+
