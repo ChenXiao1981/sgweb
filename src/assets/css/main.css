@@ -19,7 +19,7 @@ input{outline:none;}
 .nav-left img{display:block; margin-top:26px;}
 .nav-right{float:right;}
 .nav-right a{display:block; float:left; padding-left:60px; }
-.nav-right a:first-child{color:#ff730c;}
+/*.nav-right a:first-child{color:#ff730c;}*/
 .banner{width:100%; height:500px;}
 
 .intro{background:#fff;  padding-top:50px; }
