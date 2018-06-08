@@ -23,7 +23,7 @@ export default new Router({
           component: Home
         },
         {
-          path: '/home/:id',
+          path: '/home/login',
           name: 'login',
           component: Login
         }

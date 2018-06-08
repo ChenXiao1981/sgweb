@@ -1,8 +1,8 @@
 <template>
   <!--每个 template中只能有一个根元素-->
   <body>
-    <HeaderDiv></HeaderDiv>
-    <HeaderMenu></HeaderMenu>
+    <header-div></header-div>
+    <header-menu></header-menu>
     <router-view></router-view>
   </body>
 </template>
@@ -12,8 +12,8 @@ import HeaderMenu from './headermenu'
 export default {
   name: 'index',
   components: {
-    'HeaderDiv': Header,
-    'HeaderMenu': HeaderMenu
+    'header-div': Header,
+    'header-menu': HeaderMenu
   }
 }
 </script>
